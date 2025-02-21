@@ -1,0 +1,4 @@
+streamlit==1.25.0               # Web interface for user interaction
+qdrant-client==1.5.1            # Local vector database for embeddings
+sentence-transformers==2.2.2    # Embedding model for text processing
+PyMuPDF==1.23.6                 # PDF extraction (text and images)
